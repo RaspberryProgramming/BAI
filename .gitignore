@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom Added
+bai.h5
+bai_js
+scan.pdf
